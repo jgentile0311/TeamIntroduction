@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jgentile\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jgentile\\.nuget\\packages"
+    ]
+  }
+}
